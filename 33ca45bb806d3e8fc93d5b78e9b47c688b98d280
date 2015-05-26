@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "facab960_9e03d90e",
+        "filename": "px.dependencies",
+        "patchSetId": 1
+      },
+      "lineNbr": 4,
+      "author": {
+        "id": 1003174
+      },
+      "writtenOn": "2015-05-26T21:17:57Z",
+      "side": 1,
+      "message": "why you removed android_",
+      "revId": "33ca45bb806d3e8fc93d5b78e9b47c688b98d280",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
